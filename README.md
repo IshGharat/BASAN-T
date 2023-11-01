@@ -71,7 +71,7 @@ This project is a gesture-based VLC media controller that allows you to control 
 
 ## Acknowledgments
 
-This project was developed by Eesh Gharat and Kingshuk Mitra as part of Semester 4 Software Engineering Project under the guidance of Prof. Ruchi Sharma, Mukesh Patel School of Technology Management & Engineering (Mumbai), NMIMS.
+This project was developed by Eesh Gharat and Kingshuk Mitra as part of Semester 5 Software Engineering Project under the guidance of Prof. Ruchi Sharma, Mukesh Patel School of Technology Management & Engineering (Mumbai), NMIMS.
 
 ## License
 
